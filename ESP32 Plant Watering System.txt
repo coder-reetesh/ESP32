@@ -1,0 +1,5 @@
+ESP32 Plant Watering System step by step execution
+
+https://chatgpt.com/share/69e870a2-cb7c-8322-9afe-f14b4f36c7fb
+
+https://chatgpt.com/s/t_69e5be454a4081918ad6d1f826ea6c24
